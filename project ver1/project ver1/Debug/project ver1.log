@@ -1,0 +1,4 @@
+﻿  project ver1.cpp
+C:\Users\syc\source\repos\project ver1\project ver1\project ver1.cpp(663,6): warning C4101: “hdc”: 未引用的局部变量
+C:\Users\syc\source\repos\project ver1\project ver1\project ver1.cpp(662,14): warning C4101: “ps”: 未引用的局部变量
+  project ver1.vcxproj -> C:\Users\syc\source\repos\project ver1\Debug\project ver1.exe
